@@ -399,7 +399,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-Note20.png" alt="Samsung Galaxy Note20 5G" width="500" align="right">
 
-**codename: c1slte** <br>
+**codename: c1s** <br>
 **Testers: None**
 
 | ✅    | **Working**     |
