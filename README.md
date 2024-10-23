@@ -14,6 +14,7 @@ _____
 [TheKit(NotKit)](https://github.com/NotKit) <br />
 [Vince](https://github.com/borbelyvince) <br />
 [Halal Beef](https://github.com/halal-beef) <br />
+[ExtremeXT](https://github.com/ExtremeXT) <br /> 
 the rest of the Ubports Porting group <br />
 ________
 ## [Progress of Devices with Exynos 990/9830 processor](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Family-Soc-Exynos9830.md)

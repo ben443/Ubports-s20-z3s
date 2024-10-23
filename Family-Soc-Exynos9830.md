@@ -203,6 +203,66 @@ ________
 </details>
 
 <details>
+<summary><b><strong>Samsung Galaxy S20+</strong></b></summary>
+
+<img src="Screenshots/Samsung-Galaxy-S20Plus.png" alt="Samsung Galaxy S20+" width="500" align="right">
+
+**Maintainer: Unknown** <br>
+**codename: y2slte** <br>
+**Testers: None**
+
+| ✅    | **Working**     |
+|-------|-----------------|
+| ⚠️    | **Problematic** |
+| ❌    | **Not Working** |
+| ❔    | **Unknown**     |
+
+<table>
+<tr><th>Ubuntu Touch</th></tr>
+<tr><td>
+
+| Feature                    | Description                                                    | State |
+|:---------------------------|:---------------------------------------------------------------|:-----:|
+| Recovery Ubports           |                                                                |  ❔   |
+| Side Buttons               |                                                                |  ❔   |
+| Proximity Sensor           |                                                                |  ❔   |
+| Ambient Light Sensor       |                                                                |  ❔   |
+| Light Sensor               |                                                                |  ❔   |
+| Accelerometer Sensor       |                                                                |  ❔   |
+| Compass Sensor             |                                                                |  ❔   |
+| Gyroscope Sensor           |                                                                |  ❔   |
+| Rotation                   |                                                                |  ❔   |
+| Fingerprint Sensor         |                                                                |  ❔   |
+| Temperature Sensor         |                                                                |  ❔   |
+| Battery                    |                                                                |  ❔   |
+| USB Host Mode              |                                                                |  ❔   |
+| USB Device Mode            |                                                                |  ❔   |
+| USB Power Delivery         |                                                                |  ❔   |
+| Charging                   |                                                                |  ❔   |
+| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
+| CPU                        |                                                                |  ❔   |
+| Touchscreen                |                                                                |  ❔   |                  
+| Bluetooth                  |                                                                |  ❔   |
+| GPS                        |                                                                |  ❔   |
+| GPU                        |                                                                |  ❔   |
+| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
+| Mobile Data                |                                                                |  ❔   |
+| Hotspot                    |                                                                |  ❔   |
+| Airplane Mode              |                                                                |  ❔   |
+| Display                    |                                                                |  ❔   |
+| Vibration                  |                                                                |  ❔   |
+| Waydroid                   |                                                                |  ❔   |
+| Double Tap to Wake         |                                                                |  ❔   |
+| SSH                        | You have to do it manually                                     |  ❔   |
+| Virtualization             |                                                                |  ❔   |
+| Automatic brightness       |                                                                |  ❔   |
+
+</td></tr> </table>
+
+  </summary>
+</details>
+
+<details>
 <summary><b><strong>Samsung Galaxy S20+ 5G</strong></b></summary>
 
 <img src="Screenshots/Samsung-Galaxy-S20Plus-5G.png" alt="Samsung Galaxy S20+ 5G" width="500" align="right">
@@ -241,7 +301,7 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
+| Touchscreen                |                                                                |  ❔   |
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
