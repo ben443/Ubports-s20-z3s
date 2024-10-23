@@ -15,12 +15,12 @@ sudo apt-get update -y && sudo apt-get install dialog bash sed wget git curl zip
 ### Step 1
 Clone the repository:
 ```
-git clone https://github.com/Sota4Ever/UT-Port-samsung-S20FE.git -b halium-13-r8s --depth 1
+git clone https://github.com/Sota4Ever/UTFamily-Samsung-Exynos9830.git -b halium-13 --depth 1
 ```
 ### Step 2
-Go into the repository and you have to put a `deviceinfo-r8s` link symbol with the following command:
+Go into the repository and you have to put a `deviceinfo-**` link symbol with the following command:
 ```
-ln -s deviceinfo-r8s deviceinfo
+ln -s deviceinfo-** deviceinfo
 ```
 
 ### Step 3
@@ -32,7 +32,7 @@ Build and wait for it to finish with the following command:
 ### Step 4
 Once completed, run the next command:
 ```
-./build/prepare-fake-ota.sh out/device_r8s_usrmerge.tar.xz ota
+./build/prepare-fake-ota.sh out/device_**_usrmerge.tar.xz ota
 ```
 
 This will download files, extract, and compress.

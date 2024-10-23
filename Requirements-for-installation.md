@@ -14,8 +14,7 @@ You already know the process for those who are experienced for that, for those w
 That's it! Your device will have the bootloader unlocked.
 
 ## Stock ROM (the original firmware)
-For those who are using custom ROM, unfortunately you have to put STOCK ROM :(
-You can find your firmware on the SM-G780F device page: [*samfw SM-G780F*](https://samfw.com/firmware/SM-G780F)
+They have to be on their original firmware with vbmeta disabled on the device and updated, you can find their firmware on [samfw](https://samfw.com)
 
 ## Disable vbmeta
 # ⚠️ Caution ⚠️
@@ -54,4 +53,5 @@ That's it!
 </details>
 
 ## Use custom recovery image
-To make the process easier [TWRP](https://t.me/s20femodding/1/164651) 
+For to make it easier use a custom recovery image on xda forums.
+For those who don't have a headache trying to find twrp for r8s, here is the link: https://t.me/s20femodding/1/164651
