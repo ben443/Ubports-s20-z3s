@@ -24,6 +24,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-S20.png" alt="Samsung Galaxy S20" width="500" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: x1slte** <br>
 **Testers: None**
 
@@ -84,6 +85,7 @@ ________
 
 <img src="https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-5G.png" alt="Samsung Galaxy S20 5G" width="400" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: x1s** <br>
 **Testers: None**
 
@@ -117,7 +119,8 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                             | Audio (Speakers/Microphone)|                                                                |  ❔   |
+| Touchscreen                |                                                                |  ❔   |                  
+| Audio (Speakers/Microphone)|                                                                |  ❔   |
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
@@ -143,6 +146,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-S20-FE.png" alt="Samsung Galaxy S20 FE" width="400" align="right">
 
+**Maintainer: [Sota4Ever](https://github.com/Sota4Ever)** <br>
 **Codename: r8s** <br>
 **Testers: [Sota4Ever](https://github.com/Sota4Ever)**
 
@@ -203,6 +207,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-S20Plus-5G.png" alt="Samsung Galaxy S20+ 5G" width="500" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: y2s** <br>
 **Testers: None**
 
@@ -236,7 +241,7 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                            >
+| Touchscreen                |                                                                |  ❔   |                  
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
@@ -262,6 +267,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-S20-Ultra-5G.png" alt="Samsung Galaxy S20 Ultra 5G" width="500" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: z3s** <br>
 **Testers: None**
 
@@ -295,7 +301,7 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                            >
+| Touchscreen                |                                                                |  ❔   |                  
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
@@ -340,6 +346,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-Note20.png" alt="Samsung Galaxy Note20" width="500" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: c1slte** <br>
 **Testers: None**
 
@@ -373,7 +380,7 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                            >
+| Touchscreen                |                                                                |  ❔   |                  
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
@@ -399,6 +406,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-Note20.png" alt="Samsung Galaxy Note20 5G" width="500" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: c1s** <br>
 **Testers: None**
 
@@ -432,7 +440,7 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                            >
+| Touchscreen                |                                                                |  ❔   |                  
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
@@ -458,6 +466,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-Note20-Ultra.png" alt="Samsung Galaxy Note20 Ultra" width="500" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: c2slte** <br>
 **Testers: None**
 
@@ -491,7 +500,7 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                            >
+| Touchscreen                |                                                                |  ❔   |                  
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
@@ -517,6 +526,7 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-Note20-Ultra-5G.png" alt="Samsung Galaxy Note20 Ultra 5G" width="500" align="right">
 
+**Maintainer: Unknown** <br>
 **codename: c2s** <br>
 **Testers: None**
 
@@ -550,7 +560,7 @@ ________
 | Charging                   |                                                                |  ❔   |
 | WLAN                       | Usually sometimes does not detect.                             |  ❔   |
 | CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                            >
+| Touchscreen                |                                                                |  ❔   |                  
 | Bluetooth                  |                                                                |  ❔   |
 | GPS                        |                                                                |  ❔   |
 | GPU                        |                                                                |  ❔   |
