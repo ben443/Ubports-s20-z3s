@@ -466,9 +466,9 @@ ________
 
 <img src="Screenshots/Samsung-Galaxy-Note20.png" alt="Samsung Galaxy Note20 5G" width="500" align="right">
 
-**Maintainer: Unknown** <br>
+**Maintainer: [Elchanz3](https://github.com/Elchanz3)** <br>
 **codename: c1s** <br>
-**Testers: None**
+**Testers: [Elchanz3](https://github.com/Elchanz3)**
 
 | ✅    | **Working**     |
 |-------|-----------------|
@@ -483,38 +483,39 @@ ________
 | Feature                    | Description                                                    | State |
 |:---------------------------|:---------------------------------------------------------------|:-----:|
 | Recovery Ubports           |                                                                |  ❔   |
-| Side Buttons               |                                                                |  ❔   |
-| Proximity Sensor           |                                                                |  ❔   |
-| Ambient Light Sensor       |                                                                |  ❔   |
-| Light Sensor               |                                                                |  ❔   |
-| Accelerometer Sensor       |                                                                |  ❔   |
-| Compass Sensor             |                                                                |  ❔   |
-| Gyroscope Sensor           |                                                                |  ❔   |
-| Rotation                   |                                                                |  ❔   |
+| Side Buttons               |                                                                |  ✅   |
+| Proximity Sensor           |                                                                |  ✅   |
+| Ambient Light Sensor       |                                                                |  ✅   |
+| Light Sensor               |                                                                |  ✅   |
+| Accelerometer Sensor       |                                                                |  ✅   |
+| Compass Sensor             |                                                                |  ✅   |
+| Gyroscope Sensor           |                                                                |  ✅   |
+| Rotation                   |                                                                |  ✅   |
 | Fingerprint Sensor         |                                                                |  ❔   |
-| Temperature Sensor         |                                                                |  ❔   |
-| Battery                    |                                                                |  ❔   |
-| USB Host Mode              |                                                                |  ❔   |
-| USB Device Mode            |                                                                |  ❔   |
+| Temperature Sensor         |                                                                |  ✅   |
+| Battery                    |                                                                |  ✅   |
+| USB Host Mode              |                                                                |  ✅   |
+| USB Device Mode            |                                                                |  ✅   |
 | USB Power Delivery         |                                                                |  ❔   |
-| Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
-| CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
-| Bluetooth                  |                                                                |  ❔   |
-| GPS                        |                                                                |  ❔   |
-| GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
-| Mobile Data                |                                                                |  ❔   |
-| Hotspot                    |                                                                |  ❔   |
-| Airplane Mode              |                                                                |  ❔   |
-| Display                    |                                                                |  ❔   |
-| Vibration                  |                                                                |  ❔   |
+| Charging                   |                                                                |  ✅   |
+| WLAN                       |                                                                |  ✅   |
+| CPU                        |                                                                |  ✅   |
+| Touchscreen                |                                                                |  ✅   |
+| Audio (Speakers/Microphone)| audio has micro stutters.                                      |  ⚠️   |
+| Bluetooth                  |                                                                |  ✅   |
+| GPS                        |                                                                |  ✅   |
+| GPU                        |                                                                |  ✅   |
+| Camera (Photos/QR/Video)   | after 10 seconds of recording videos the application crashes.  |  ⚠️   |
+| Mobile Data                |                                                                |  ✅   |
+| Hotspot                    |                                                                |  ✅   |
+| Airplane Mode              |                                                                |  ✅   |
+| Display                    |                                                                |  ✅   |
+| Vibration                  |                                                                |  ✅   |
 | Waydroid                   |                                                                |  ❔   |
-| Double Tap to Wake         |                                                                |  ❔   |
+| Double Tap to Wake         |                                                                |  ❌   |
 | SSH                        | You have to do it manually                                     |  ❔   |
 | Virtualization             |                                                                |  ❔   |
-| Automatic brightness       |                                                                |  ❔   |
+| Automatic brightness       |                                                                |  ✅   |
 
 </td></tr> </table>
 
