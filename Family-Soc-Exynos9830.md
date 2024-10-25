@@ -83,11 +83,11 @@ ________
 <details>
 <summary><b><strong>Samsung Galaxy S20 5G</strong></b></summary>
 
-<img src="https://github.com/Sota4Ever/Mu-Silicium/raw/main/Resources/Pictures/Samsung-Galaxy-S20-5G.png" alt="Samsung Galaxy S20 5G" width="400" align="right">
+<img src="https://github.com/Sota4Ever/UTFamily-Samsung-Exynos9830/blob/halium-13/Screenshots/photo_2024-10-25_01-58-15.jpg?raw=true" alt="Samsung Galaxy S20 5G" width="400" align="right">
 
 **Maintainer: Unknown** <br>
 **codename: x1s** <br>
-**Testers: None**
+**Testers: [Linux-helper](https://github.com/linux-helper**
 
 | ✅    | **Working**     |
 |-------|-----------------|
@@ -102,39 +102,40 @@ ________
 | Feature                    | Description                                                    | State |
 |:---------------------------|:---------------------------------------------------------------|:-----:|
 | Recovery Ubports           |                                                                |  ❔   |
-| Side Buttons               |                                                                |  ❔   |
-| Proximity Sensor           |                                                                |  ❔   |
-| Ambient Light Sensor       |                                                                |  ❔   |
-| Light Sensor               |                                                                |  ❔   |
-| Accelerometer Sensor       |                                                                |  ❔   |
-| Compass Sensor             |                                                                |  ❔   |
-| Gyroscope Sensor           |                                                                |  ❔   |
-| Rotation                   |                                                                |  ❔   |
-| Fingerprint Sensor         |                                                                |  ❔   |
-| Temperature Sensor         |                                                                |  ❔   |
-| Battery                    |                                                                |  ❔   |
-| USB Host Mode              |                                                                |  ❔   |
-| USB Device Mode            |                                                                |  ❔   |
-| USB Power Delivery         |                                                                |  ❔   |
-| Charging                   |                                                                |  ❔   |
-| WLAN                       | Usually sometimes does not detect.                             |  ❔   |
-| CPU                        |                                                                |  ❔   |
-| Touchscreen                |                                                                |  ❔   |                  
-| Audio (Speakers/Microphone)|                                                                |  ❔   |
-| Bluetooth                  |                                                                |  ❔   |
-| GPS                        |                                                                |  ❔   |
-| GPU                        |                                                                |  ❔   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ❔   |
-| Mobile Data                |                                                                |  ❔   |
-| Hotspot                    |                                                                |  ❔   |
-| Airplane Mode              |                                                                |  ❔   |
-| Display                    |                                                                |  ❔   |
-| Vibration                  |                                                                |  ❔   |
-| Waydroid                   |                                                                |  ❔   |
-| Double Tap to Wake         |                                                                |  ❔   |
-| SSH                        | You have to do it manually                                     |  ❔   |
-| Virtualization             |                                                                |  ❔   |
-| Automatic brightness       |                                                                |  ❔   |
+| Side Buttons               |                                                                |  ✅   |
+| Proximity Sensor           |                                                                |  ❌   |
+| Ambient Light Sensor       |                                                                |  ✅   |
+| Light Sensor               |                                                                |  ✅   |
+| Accelerometer Sensor       |                                                                |  ✅   |
+| Compass Sensor             |                                                                |  ✅   |
+| Gyroscope Sensor           |                                                                |  ✅   |
+| Rotation                   |                                                                |  ✅   |
+| Fingerprint Sensor         |                                                                |  ❌   |
+| Temperature Sensor         |                                                                |  ❌   |
+| Battery                    |                                                                |  ✅   |
+| USB Host Mode              |                                                                |  ✅   |
+| USB Device Mode            |                                                                |  ✅   |
+| USB Power Delivery         |                                                                |  ✅   |
+| Charging                   |                                                                |  ✅   |
+| WLAN                       | works mostly good but disconnects sometimes                    |  ⚠️   |
+| CPU                        |                                                                |  ✅   |
+| Touchscreen                |                                                                |  ✅   |
+| Audio (Speakers/Microphone)|                                                                |  ✅   |
+| Bluetooth                  |                                                                |  ✅   |
+| GPS                        |                                                                |  ✅   |
+| GPU                        |                                                                |  ✅   |
+| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ⚠️   |
+| Mobile Data                |                                                                |  ✅   |
+| Hotspot                    |                                                                |  ✅   |
+| Airplane Mode              |                                                                |  ✅   |
+| Display                    |                                                                |  ✅   |
+| Vibration                  |                                                                |  ✅   |
+| Waydroid                   |                                                                |  ❌   |
+| Double Tap to Wake         |                                                                |  ❌   |
+| SSH                        | You have to do it manually                                     |  ✅   |
+| Virtualization             |  waydroid doesnt work & libertine                              |  ❔   |
+| Automatic brightness       |                                                                |  ✅   |
+JUST A NOTE FROM LINUX-HELPER/BOYAN DEVELOPER MODE DOESNT WORK!!
 
 </td></tr> </table>
 
