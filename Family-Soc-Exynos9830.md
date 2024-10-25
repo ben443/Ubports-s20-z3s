@@ -464,7 +464,7 @@ ________
 <details>
 <summary><b><strong>Samsung Galaxy Note20 5G</strong></b></summary>
 
-<img src="Screenshots/Samsung-Galaxy-Note20.png" alt="Samsung Galaxy Note20 5G" width="500" align="right">
+<img src="Screenshots/Samsung-Galaxy-Note20-5G-homescreen.png" alt="Samsung Galaxy Note20 5G" width="500" align="right">
 
 **Maintainer: [Elchanz3](https://github.com/Elchanz3)** <br>
 **codename: c1s** <br>
