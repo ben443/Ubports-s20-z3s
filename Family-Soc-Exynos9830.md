@@ -85,9 +85,9 @@ ________
 
 <img src="Screenshots/photo_2024-10-25_01-58-15.jpg" alt="Samsung Galaxy S20 5G" width="400" align="right">
 
-**Maintainer: linux-helper** <br>
+**Maintainer: [linux-helper](https://github.com/linux-helper)** <br>
 **codename: x1s** <br>
-**Testers: LINUX-helper**
+**Testers: [linux-helper](https://github.com/linux-helper)**
 
 | ✅    | **Working**     |
 |-------|-----------------|
