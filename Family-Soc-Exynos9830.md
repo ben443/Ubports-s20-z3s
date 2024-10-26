@@ -511,7 +511,7 @@ ________
 | Airplane Mode              |                                                                |  ✅   |
 | Display                    |                                                                |  ✅   |
 | Vibration                  |                                                                |  ✅   |
-| Waydroid                   |                                                                |  ❔   |
+| Waydroid                   | stuck on the loading screen.                                   |  ⚠️   |
 | Double Tap to Wake         |                                                                |  ❌   |
 | SSH                        | You have to do it manually                                     |  ❔   |
 | Virtualization             |                                                                |  ❔   |
