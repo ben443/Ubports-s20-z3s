@@ -8,5 +8,4 @@
 # by overlaying device-hacks.service.d/device-specific-settings.conf or the
 # device-hacks.service file itself.
 
-# Fix Flashlight permission
-chown phablet /sys/devices/virtual/camera/flash/rear_flash
+bash /usr/libexec/lxc-android-config/device-hacks.d/flashlight_permission.sh
