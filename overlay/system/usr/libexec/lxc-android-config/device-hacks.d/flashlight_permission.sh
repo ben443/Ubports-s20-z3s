@@ -13,4 +13,3 @@ elif [ "$DEVICE" == "c1s" ]; then
         sudo chown phablet /sys/class/camera/rear_flash
     fi
 fi
-
