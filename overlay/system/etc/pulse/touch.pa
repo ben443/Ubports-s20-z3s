@@ -44,7 +44,7 @@ load-module module-null-source source_name=source.fake.sco rate=8000 channels=1
 
 ### Automatically load the Pulseaudio Droid
 .ifexists module-droid-card-30.so
-load-module module-droid-card-30 rate=48000 voice_virtual_stream=true use_legacy_stream_set_parameters=true
+load-module module-droid-card-30 rate=44100 voice_virtual_stream=true use_legacy_stream_set_parameters=true
 .endif
 
 .ifexists module-droid-hidl-30.so
@@ -109,7 +109,7 @@ load-module module-gconf
 load-module module-always-sink
 
 ### Automatically suspend sinks/sources that become idle for too long
-load-module module-suspend-on-idle
+# load-module module-suspend-on-idle
 
 ### If autoexit on idle is enabled we want to make sure we only quit
 ### when no local session needs us anymore.
@@ -138,8 +138,8 @@ load-module module-dbus-protocol
 ### on demand. module-filter-heuristics tries to determine what filters
 ### make sense, and module-filter-apply does the heavy-lifting of
 ### loading modules and rerouting streams.
-load-module module-filter-heuristics
-load-module module-filter-apply
+# load-module module-filter-heuristics
+# load-module module-filter-apply
 
 ### Automatically load the audioflinger glue
 .ifexists module-droid-glue-24.so
