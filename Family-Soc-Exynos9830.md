@@ -501,7 +501,7 @@ ________
 | WLAN                       |                                                                |  ✅   |
 | CPU                        |                                                                |  ✅   |
 | Touchscreen                |                                                                |  ✅   |
-| Audio (Speakers/Microphone)| audio has micro stutters.                                      |  ⚠️   |
+| Audio (Speakers/Microphone)|                                                                |  ✅   |
 | Bluetooth                  |                                                                |  ✅   |
 | GPS                        |                                                                |  ✅   |
 | GPU                        |                                                                |  ✅   |
