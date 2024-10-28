@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEVICE=$(getprop ro.product.device)
+DEVICE=$(getprop ro.product.vendor.device)
 
 if [ "$DEVICE" == "r8s" ]; then
     sleep 0.5
