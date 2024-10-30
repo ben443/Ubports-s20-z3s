@@ -185,7 +185,7 @@ ________
 | Bluetooth                  |                                                                |  ✅   |
 | GPS                        |                                                                |  ✅   |
 | GPU                        |                                                                |  ✅   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ⚠️    |
+| Camera (Photos/QR/Video)   | Stuck recording                                                |  ⚠️    |
 | Mobile Data                |                                                                |  ✅   |
 | Hotspot                    |                                                                |  ✅   |
 | Airplane Mode              |                                                                |  ✅   |
