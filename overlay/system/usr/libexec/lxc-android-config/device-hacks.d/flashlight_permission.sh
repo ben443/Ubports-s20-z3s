@@ -4,7 +4,7 @@ DEVICE=$(getprop ro.product.vendor.device)
 
 if [[ "$DEVICE" == "r8s" || "$DEVICE" == "c1s" ]]; then
     sleep 0.5
-    if [ -e /sys/class/camera/rear_flash ]; then
-        sudo chown phablet /sys/class/camera/rear_flash
+    if [ -e /sys/devices/virtual/camera/flash/rear_flash ]; then
+        sudo chown phablet /sys/devices/virtual/camera/flash/rear_flash
     fi
 fi
