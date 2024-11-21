@@ -117,20 +117,20 @@ ________
 | USB Device Mode            |                                                                |  ✅   |
 | USB Power Delivery         |                                                                |  ✅   |
 | Charging                   |                                                                |  ✅   |
-| WLAN                       | limits to 1.9mbits per secound                                 |  ⚠️   |
+| WLAN                       | limits to 1.9mbits per secound                                 |  ⚠️    |
 | CPU                        |                                                                |  ✅   |
 | Touchscreen                |                                                                |  ✅   |
 | Audio (Speakers/Microphone)|                                                                |  ✅   |
 | Bluetooth                  |                                                                |  ✅   |
 | GPS                        |                                                                |  ✅   |
 | GPU                        |                                                                |  ✅   |
-| Camera (Photos/QR/Video)   | Can't take photos/videos and QR reading works                  |  ⚠️   |
+| Camera (Photos/QR/Video)   |                                                                |  ✅   |
 | Mobile Data                |                                                                |  ✅   |
 | Hotspot                    |                                                                |  ✅   |
 | Airplane Mode              |                                                                |  ✅   |
 | Display                    |                                                                |  ✅   |
 | Vibration                  |                                                                |  ✅   |
-| Waydroid                   |                                                                |  ❌   |
+| Waydroid                   |                                                                |  ✅   |
 | Double Tap to Wake         |                                                                |  ❌   |
 | SSH                        | You have to do it manually                                     |  ✅   |
 | Virtualization             |                                                                |  ❌   |
@@ -185,13 +185,13 @@ ________
 | Bluetooth                  |                                                                |  ✅   |
 | GPS                        |                                                                |  ✅   |
 | GPU                        |                                                                |  ✅   |
-| Camera (Photos/QR/Video)   | Stuck recording                                                |  ⚠️    |
+| Camera (Photos/QR/Video)   |                                                                |  ✅   |
 | Mobile Data                |                                                                |  ✅   |
 | Hotspot                    |                                                                |  ✅   |
 | Airplane Mode              |                                                                |  ✅   |
 | Display                    |                                                                |  ✅   |
 | Vibration                  |                                                                |  ✅   |
-| Waydroid                   |                                                                |  ❔   |
+| Waydroid                   |                                                                |  ✅   |
 | Double Tap to Wake         |                                                                |  ❌   |
 | SSH                        | You have to do it manually                                     |  ✅   |
 | Virtualization             |                                                                |  ❔   |
@@ -505,13 +505,13 @@ ________
 | Bluetooth                  |                                                                |  ✅   |
 | GPS                        |                                                                |  ✅   |
 | GPU                        |                                                                |  ✅   |
-| Camera (Photos/QR/Video)   | after 10 seconds of recording videos the application crashes.  |  ⚠️   |
+| Camera (Photos/QR/Video)   |                                                                |  ✅   |
 | Mobile Data                |                                                                |  ✅   |
 | Hotspot                    |                                                                |  ✅   |
 | Airplane Mode              |                                                                |  ✅   |
 | Display                    |                                                                |  ✅   |
 | Vibration                  |                                                                |  ✅   |
-| Waydroid                   | stuck on the loading screen.                                   |  ⚠️   |
+| Waydroid                   |                                                                |  ✅   |
 | Double Tap to Wake         |                                                                |  ❌   |
 | SSH                        | You have to do it manually                                     |  ❔   |
 | Virtualization             |                                                                |  ❔   |
