@@ -1,11 +1,11 @@
-r8s:
+z3s:
   Vendor: Samsung
-  Codename: r8s
+  Codename: z3s
   Names:
-    - S20 FE
-    - r8s
-    - Samsung S20 FE
-  PrettyName: Samsung Galaxy S20 FE
+    - S20 Ultra 5G
+    - z3s
+    - Samsung S20 Ultra 5G
+  PrettyName: Samsung Galaxy S20 Ultra 5G
   DeviceType: phone
   GridUnit: 21
   PrimaryOrientation:

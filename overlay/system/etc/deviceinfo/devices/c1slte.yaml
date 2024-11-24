@@ -1,11 +1,11 @@
-r8s:
+c1slte:
   Vendor: Samsung
-  Codename: r8s
+  Codename: c1slte
   Names:
-    - S20 FE
-    - r8s
-    - Samsung S20 FE
-  PrettyName: Samsung Galaxy S20 FE
+    - Note20
+    - c1slte
+    - Samsung Note20
+  PrettyName: Samsung Galaxy Note20
   DeviceType: phone
   GridUnit: 21
   PrimaryOrientation:

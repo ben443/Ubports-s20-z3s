@@ -1,11 +1,11 @@
-r8s:
+c2s:
   Vendor: Samsung
-  Codename: r8s
+  Codename: c2s
   Names:
-    - S20 FE
-    - r8s
-    - Samsung S20 FE
-  PrettyName: Samsung Galaxy S20 FE
+    - Note20 Ultra 5G
+    - c2s
+    - Samsung Note20 Ultra 5G
+  PrettyName: Samsung Galaxy Note20 Ultra 5G
   DeviceType: phone
   GridUnit: 21
   PrimaryOrientation:

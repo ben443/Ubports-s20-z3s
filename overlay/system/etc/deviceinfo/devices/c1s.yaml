@@ -2,10 +2,10 @@ c1s:
   Vendor: Samsung
   Codename: c1s
   Names:
-    - Note 20 5G
+    - Note20 5G
     - c1s
-    - Samsung Note 20 5G
-  PrettyName: Samsung Galaxy Note 20 5G
+    - Samsung Note20 5G
+  PrettyName: Samsung Galaxy Note20 5G
   DeviceType: phone
   GridUnit: 21
   PrimaryOrientation:
@@ -19,3 +19,11 @@ c1s:
   OfonoImplementsIms: true
   FlashlightSysfsPath:
     - /sys/devices/virtual/camera/flash/rear_flash
+  MirAndroidPlatformClientEglFlush:
+    - "all"
+  MirAndroidPlatformServerEglSync:
+    - false
+  MirAndroidPlatformServerPartialUpdates:
+    - false
+  XwaylandShm:
+    - true
