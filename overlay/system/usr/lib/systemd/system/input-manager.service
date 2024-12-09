@@ -1,0 +1,8 @@
+[Unit]
+Description=Input Manager for Screen State
+
+[Service]
+Environment="PYTHONUNBUFFERED=1"
+ExecStart=/usr/bin/python3 /usr/libexec/lxc-android-config/device-hacks.d/input_manager.py
+Restart=always
+
