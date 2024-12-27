@@ -1,0 +1,21 @@
+name: Build
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v2
+
+    - name: Set up shell environment
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y git
+
+    - name: Run build.sh script
+      run: |
+        chmod +x build.sh
+        ./build.sh
