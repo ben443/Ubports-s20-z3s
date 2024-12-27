@@ -701,6 +701,16 @@ mountroot() {
 			fi
 		done
 
+		# apply charging limit here once in case we are booting into charger mode
+		if [ -e ${rootmnt}/userdata/user-data/phablet/.config/limit_charging ]
+		then
+			echo 1 > /sys/class/power_supply/battery/store_mode
+			limit=$(cat ${rootmnt}/userdata/user-data/phablet/.config/limit_charging)
+			if [ $limit -lt 95 ] && [ $limit -gt 60 ]
+			then
+				echo $limit > /sys/module/sec_battery/parameters/store_mode_max
+			fi
+
 	else
 		# Possibly a re-partitioned device
 		halium_panic "Couldn't find a system partition."
