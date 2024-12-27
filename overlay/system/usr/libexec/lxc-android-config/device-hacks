@@ -9,3 +9,5 @@
 # device-hacks.service file itself.
 
 bash /usr/libexec/lxc-android-config/device-hacks.d/flashlight_permission.sh
+
+bash /usr/libexec/lxc-android-config/device-hacks.d/aidl_power.sh
