@@ -1,0 +1,7 @@
+[Unit]
+Description=Proximity Sensor Manager
+
+[Service]
+Environment="PYTHONUNBUFFERED=1"
+ExecStart=/usr/bin/python3 /usr/libexec/lxc-android-config/device-hacks.d/proximity_manager.py
+Restart=always
