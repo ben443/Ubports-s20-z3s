@@ -15,6 +15,10 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y git
 
+    - name: List directory contents for debugging
+      run: |
+        ls -alh
+
     - name: Run build.sh script
       run: |
         chmod +x build.sh
