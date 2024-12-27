@@ -1,0 +1,8 @@
+[Unit]
+Description=power manager that informs aidl powerhal of different states, optionally also manages network power saving
+
+[Service]
+Restart=always
+ExecStart=/usr/bin/python3 /usr/libexec/lxc-android-config/device-hacks.d/aidl_perf_boost.py
+
+
