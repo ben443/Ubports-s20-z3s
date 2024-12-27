@@ -21,6 +21,7 @@ ________
 ## [Requirements for installation](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Requirements-for-installation.md)
 ## [Building](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Building.md)
 ## [Installation](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Installation.md)
+## [Tinker](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/tinker.md)
 # Everything is in process
 
 <p align="center">
